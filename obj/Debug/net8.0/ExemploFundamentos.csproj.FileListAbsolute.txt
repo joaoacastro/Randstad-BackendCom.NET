@@ -19,3 +19,4 @@ C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe 
 C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
 C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json

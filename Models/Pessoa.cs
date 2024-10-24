@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ExemploFundamentos.Models
 {
-    public class Pessoa
+    public class Pessoa //Convenção: nome de classe sempre em PascalCase
     {
         // public required string Nome { get; set; }
         // o required torna esse campo obrigatorio, podemos tirar o require, porem retornara um erro, para não ocorrer esse erro, podemos fazer conforme abaixo
@@ -15,7 +15,8 @@ namespace ExemploFundamentos.Models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Olá, meu nome é {Nome} e eu tenho {Idade} anos.");
+            Console.WriteLine($"Olá, meu nome é " +
+            $"{Nome} e \n eu tenho {Idade} anos.");
         }
     }
 }
