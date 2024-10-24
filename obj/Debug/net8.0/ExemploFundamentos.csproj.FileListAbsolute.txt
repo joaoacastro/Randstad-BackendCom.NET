@@ -1,0 +1,21 @@
+G:\Meu Drive\Pessoal\Codigos\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Pessoal\Codigos\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+G:\Meu Drive\Pessoal\Codigos\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+G:\Meu Drive\Pessoal\Codigos\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Pessoal\Codigos\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+G:\Meu Drive\Pessoal\Codigos\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+G:\Meu Drive\Pessoal\Codigos\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\3 - Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
